@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai&Ml
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on computer vision 
-- 📫 my linked in profile https://in.linkedin.com/in/ayan-jana-910b5428b
+- 📫 my linkedin profile https://in.linkedin.com/in/ayan-jana-910b5428b
 - 😄 Pronouns: he/his
 - 🎓 Currently persuing BTech. in CSE
 
