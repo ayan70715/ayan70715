@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayan70715
-- 👀 I’m interested in Ai&Ml
+- 👀 I’m interested in developing AI-based WebApps
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on computer vision 
 - 📫 my linkedin profile https://in.linkedin.com/in/ayan-jana-910b5428b
